@@ -1,6 +1,5 @@
 setting.py
 
-
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
 
@@ -87,3 +86,5 @@ typings/
 .dynamodb/
 
 # End of https://www.gitignore.io/api/node
+
+# Modificado
